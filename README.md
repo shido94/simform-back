@@ -4,6 +4,7 @@
 Run `npm i` to install all the packages
 
 ## Run Server
+Create .env file // refer to .env.example
 Run `node server.js`
 
 # Packages Used
